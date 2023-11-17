@@ -10,6 +10,8 @@
 //            Partial images will be transmitted if image exceeds buffer size
 //
 
+// Test comment 1
+
 // Select camera model
 #define CAMERA_MODEL_WROVER_KIT // Has PSRAM
 //#define CAMERA_MODEL_ESP_EYE // Has PSRAM
