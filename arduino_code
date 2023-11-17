@@ -20,6 +20,8 @@
 //#define CAMERA_MODEL_AI_THINKER // Has PSRAM
 //#define CAMERA_MODEL_TTGO_T_JOURNAL // No PSRAM
 
+// Test comment here
+
 #include "camera_pins.h"
 
 const char* ssid = "Wifi Network Here";
